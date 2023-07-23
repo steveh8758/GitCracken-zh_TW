@@ -17,5 +17,5 @@
 ---
 
 2023/07/23 19:26:40
-    - 系統版本 Win11 家用 x64
-    - Gitkraken v9.6.0 x64 64bit
+- 系統版本 Win11 家用 x64
+- Gitkraken v9.6.0 x64 64bit
