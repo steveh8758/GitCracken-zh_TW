@@ -1,7 +1,7 @@
 # GitCracken
 - Set
-    - --安裝 NodeJS--
-        - --[v18.17.0 連結](https://nodejs.org/dist/v18.17.0/node-v18.17.0-x64.msi)--
+    - ~~安裝 NodeJS~~
+        - ~~[v18.17.0 連結](https://nodejs.org/dist/v18.17.0/node-v18.17.0-x64.msi)~~
     - 安裝 Data\NodeJS
     - 安裝 Data\yarn
     - 解壓 Data\GitkrakenCrack
