@@ -11,6 +11,8 @@
     - yarn install
     - yarn build
     - yarn gitcracken patcher
+- 禁用更新
+    - ren "%userprofile%\AppData\Local\gitkraken\Update.exe" Update_bak
 
 ---
 
